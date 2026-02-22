@@ -65,7 +65,7 @@ game-sales-analysis/
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/rush2pranav/game-sales-analysis
+git clone https://github.com/rush2pranav/game-sales-analysis.git
 cd game-sales-analysis
 
 # Install dependencies
